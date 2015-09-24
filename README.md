@@ -21,6 +21,8 @@ http://docs.mongodb.org/manual/tutorial/install-mongodb-on-amazon/
  use ummapi
  b.createUser( { "user" : "name","pwd": "pass","roles" : [ "readWrite"] })`
  
+ *Auth username/pw encoder/decoder:  https://www.base64encode.org/
+ 
 
 
 http://stackoverflow.com/questions/18520203/connectionexception-connecting-a-eve-rest-api-to-a-mongodb-instance
