@@ -1,4 +1,11 @@
-ummmmmmmm
+###Links and Documentation###
+
+**Map**
+A POC version of a map showing locations of data submissions is available here: http://nepalsheltercluster.org/umm/map.html
+
+**Documentation**
+
+A broad view of the UMM vision is avaiable here:
 
 ###API setup###
 
